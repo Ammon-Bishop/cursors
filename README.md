@@ -1,1 +1,1 @@
-if you click "view raw", the file will download to your pc
+To preview a .cur file, go to the "pics" folder and find the image with the basename (filename excluding extension, meaning everything but the ".png") corresponding to said .cur file's basename. To download a .cur file, click on the filename in this folder and click "view raw."
